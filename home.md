@@ -1,0 +1,1 @@
+# Infectus Caelestis RPG Wiki
