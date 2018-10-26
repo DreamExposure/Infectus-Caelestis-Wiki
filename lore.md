@@ -1,5 +1,6 @@
 <!-- TITLE: Lore -->
-<!-- SUBTITLE: A quick summary of Lore --> Infectus Caelestis story and lore
+<!-- SUBTITLE: A quick summary of Lore --> 
+Infectus Caelestis story and lore
 
 # Summary:
 Lacryae is a small, peaceful land, but danger looms on the horizon. Adamo, one small town and former home to the gods Amadeus and Callum, is in danger of being plunged into the darkness of war. Amadeus, the all-knowing, and Callum, the all-powerful, are at odds against each other, with their devoted followers caught in the webs of war.
