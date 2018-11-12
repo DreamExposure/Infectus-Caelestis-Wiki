@@ -1,4 +1,4 @@
 <!-- TITLE: Amadeus -->
-<!-- SUBTITLE: A quick summary of Amadeus -->
+<!-- SUBTITLE: The All Knowing -->
 
 # Header
